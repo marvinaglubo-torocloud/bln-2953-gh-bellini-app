@@ -31,7 +31,12 @@
         "name": "dir"
       }
     ],
-    "pages": [],
+    "pages": [
+      {
+        "id": "Ta7Z9_ApfnIw8EKUnN0Lr",
+        "name": "dir"
+      }
+    ],
     "scripts": [
       {
         "id": "zpmALQgLRzOl9bWAwNxTx",
