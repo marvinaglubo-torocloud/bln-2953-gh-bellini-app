@@ -1,0 +1,8 @@
+{
+  "type": "app-service",
+  "name": "svc",
+  "description": "",
+  "singleton": true,
+  "variables": [],
+  "visible": []
+}

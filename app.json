@@ -1,0 +1,66 @@
+{
+  "name": "bln-2953-gh",
+  "type": "app",
+  "defaultPage": "home",
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "environments": [],
+    "themes": [],
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    }
+  },
+  "directories": {
+    "assets": [
+      {
+        "id": "pJyeGswWemJOmwiqnz6tj",
+        "name": "dir"
+      }
+    ],
+    "components": [
+      {
+        "id": "6B_nY1zWOE6be1RgC-t9H",
+        "name": "dir"
+      }
+    ],
+    "pages": [],
+    "scripts": [
+      {
+        "id": "zpmALQgLRzOl9bWAwNxTx",
+        "name": "dir"
+      }
+    ],
+    "services": [
+      {
+        "id": "tIPXLmgs8S6JPfnPZ_C7q",
+        "name": "dir"
+      }
+    ],
+    "stylesheets": [
+      {
+        "id": "ENMkkZU1_TBWq0K26BEDY",
+        "name": "dir"
+      }
+    ]
+  },
+  "externalScripts": [],
+  "externalStylesheets": [],
+  "localScripts": [
+    {
+      "path": "index.js"
+    }
+  ],
+  "localStylesheets": [
+    {
+      "path": "index.css"
+    }
+  ]
+}
