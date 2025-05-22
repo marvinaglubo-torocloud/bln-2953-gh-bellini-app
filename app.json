@@ -55,12 +55,14 @@
   "externalStylesheets": [],
   "localScripts": [
     {
-      "path": "index.js"
+      "path": "dir/index.js",
+      "parentDirectoryId": "zpmALQgLRzOl9bWAwNxTx"
     }
   ],
   "localStylesheets": [
     {
-      "path": "index.css"
+      "path": "dir/index.css",
+      "parentDirectoryId": "ENMkkZU1_TBWq0K26BEDY"
     }
   ]
 }
